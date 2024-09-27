@@ -204,6 +204,7 @@ for X-Ray Waste Inspection [[Paper]](https://openaccess.thecvf.com/content/CVPR2
 - Background Adaptive Faster R-CNN for Semi-Supervised Convolutional Object Detection of Threats in X-Ray Images [[Paper]](https://arxiv.org/abs/2010.01202)
 - X-Ray Baggage Inspection With Computer Vision: A Survey [[Paper]](https://ieeexplore.ieee.org/document/9162101)
 - Data Augmentation of X-Ray Images in Baggage Inspection Based on Generative Adversarial Networks [[Paper]](https://ieeexplore.ieee.org/document/9087880)
+- Detail Restoration and Tone Mapping Networks for X-Ray Security Inspection [[Paper]](https://ieeexplore.ieee.org/document/9246539)
 
 #### 3D CT
 - Multi-Class 3D Object Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery [[Paper]](https://arxiv.org/abs/2008.01218)
